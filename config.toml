@@ -1,4 +1,4 @@
-base_url = "https://aterenin.github.io/academic-workshop"
+base_url = "https://paulmattes.github.io/icra_2026_rrr_workshop/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
@@ -11,7 +11,7 @@ smart_punctuation = true
 
 [extra]
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
-title = {tagline = "Presenting the", title = "Academic Workshop Zola Theme", subtitles = ["For workshops, seminars, and academic events"]}
+title = {tagline = "Presenting the", title = "Reasoning Representations for Robotics Workshop", subtitles = ["ICRA 2026"]}
 banner = {extension = "svg", size = "fixed", fade = true}
 buttons = [{name = "Website", url = "https://aterenin.github.io/academic-workshop"}, {name="GitHub", url="http://github.com/aterenin/academic-workshop"}]
 image = {resize = 400, ext = '.jpg'}
