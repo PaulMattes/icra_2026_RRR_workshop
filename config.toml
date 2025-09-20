@@ -10,11 +10,25 @@ highlight_theme = "css"
 smart_punctuation = true
 
 [extra]
-footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
+footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](https://github.com/aterenin/academic-workshop) theme, customized for the ICRA 2026 RRR Workshop."
 title = {tagline = "Presenting the", title = "Reasoning Representations for Robotics Workshop", subtitles = ["ICRA 2026"]}
 banner = {extension = "svg", size = "fixed", fade = true}
-buttons = [{name = "Website", url = "https://aterenin.github.io/academic-workshop"}, {name="GitHub", url="http://github.com/aterenin/academic-workshop"}]
+
+# Buttons under the banner
+buttons = [
+  {name = "Website", url = "https://paulmattes.github.io/icra_2026_RRR_workshop/"},
+  {name = "GitHub", url = "https://github.com/paulmattes/icra_2026_RRR_workshop"}
+]
+
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
-header_pages = [{name = "Home", url = "/#home"},{name = "Design", url = "/#design"}]
-button_shortcuts = [{variable = "video", name = "Video"}]
+
+# Top navigation menu
+header_pages = [
+  {name = "Home", url = "/#home"},
+  {name = "Abstract", url = "/#abstract"}
+]
+
+button_shortcuts = [
+  {variable = "video", name = "Video"}
+]
