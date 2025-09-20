@@ -1,4 +1,4 @@
-base_url = "https://paulmattes.github.io/icra_2026_rrr_workshop/"
+base_url = "https://paulmattes.github.io/icra_2026_RRR_workshop/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
