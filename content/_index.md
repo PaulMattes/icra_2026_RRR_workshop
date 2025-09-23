@@ -49,6 +49,10 @@ support robust and safe robot behavior.
         ["Michael Milford","Professor at Queensland University of Technology"],
         ["Yunzhu Li","Assistant Professor at Columbia University"],
         ["Alex Millane","Industry Researcher at Nvidia"],
+        ["Luca Carlone (Tentative)","Associate Professor at Massachusetts Institute of Technology"],
+        ["Angjoo Kanazawa (Tentative)","Assistant Professor at University of California, Berkeley"],
+        ["David Hsu (Tentative)","Professor at National University of Singapore"],
+        ["Victor Reijgwart (Tentative)","Industry Researcher at RAI"],
     ],
     urls = [
         "https://www.cs.princeton.edu/~fheide/",
@@ -56,6 +60,10 @@ support robust and safe robot behavior.
         "https://www.qut.edu.au/about/our-people/academic-profiles/michael.milford",
         "https://www.engineering.columbia.edu/faculty-staff/directory/yunzhu-li",
         "https://alexmillane.github.io/",
+        "https://lucacarlone.mit.edu/",
+        "https://people.eecs.berkeley.edu/~kanazawa/",
+        "https://www.comp.nus.edu.sg/cs/people/dyhsu/",
+        "https://scholar.google.com/citations?user=FCprmFMAAAAJ&hl=en"
     ],
     images = [
         "heide.webp",
@@ -63,6 +71,10 @@ support robust and safe robot behavior.
         "milford.jpg",
         "li.jpg",
         "millane.png",
+        "carlone.jpg",
+        "kanazawa.jpg",
+        "hsu.png",
+        "reijgwart.jpg",
     ],
     narrow = true) }}
 
