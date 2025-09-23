@@ -79,7 +79,7 @@ support robust and safe robot behavior.
         ["Seth Isaacson","PhD Candidate at the University of Michigan"], 
         ["Ram Vasudevan","Associate Professor at the University of Michigan"],
         ["Georgia Chalvatzaki","Full Professor at the Technical University of Darmstadt"],
-        ["Helen Olynikova","Senior Researcher at ETH Z¨urich"],
+        ["Helen Olynikova","Senior Researcher at ETH Zürich"],
         ["Rudolf Lioutikov","TT Professor at Karlsruher Institute of Technology"],
         ["Shreyas Kousik","Assistant Professor at Georgia Institute of Technology"], 
         ["Katherine Skinner","Assistant Professor at the University of Michigan"],
