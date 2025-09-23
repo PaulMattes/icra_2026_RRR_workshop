@@ -76,8 +76,16 @@ support robust and safe robot behavior.
 
 {{ grid(
     text = [
-        "Organizer A",
-        "Organizer B",
+        ["Seth Isaacson","PhD Candidate at the University of Michigan"], 
+        ["Ram Vasudevan","Associate Professor at the University of Michigan"],
+        ["Georgia Chalvatzaki","Full Professor at the Technical University of Darmstadt"],
+        ["Helen Olynikova","Senior Researcher at ETH Z¨urich"],
+        ["Rudolf Lioutikov","TT Professor at Karlsruher Institute of Technology"],
+        ["Shreyas Kousik","Assistant Professor at Georgia Institute of Technology"], 
+        ["Katherine Skinner","Assistant Professor at the University of Michigan"],
+        ["Dennis Anthony","PhD Student at Georgia Institute of Technology"],
+        ["Paul Mattes","PhD Student at Karlsruher Institute of Technology"],
+        ["Max Siebenborn","PhD Student at the Technical University of Darmstadt"],
     ],
     image_dir = "organizers") }}
 
@@ -88,12 +96,25 @@ support robust and safe robot behavior.
 
 # Schedule
 
-| Time             | Event            |
-| ---------------- | ---------------- |
-| 12:00pm - 1:00pm | Introduction and Opening Remarks: Speaker Name A     |
-| 1:00pm - 2:00pm  | Speaker A        |
-| 2:00pm - 3:00pm  | Speaker B        |
-| 3:00pm - 4:00pm  | Discussion Panel |
+| Time        | Event                    |
+|-------------|---------------------------|
+| 09:00–09:10 | Opening Remarks           |
+| 09:10–09:35 | Stefan Leutenegger        |
+| 09:35–10:00 | Michael Milford           |
+| 10:00–10:25 | Angjoo Kanazawa (tentative) |
+| 10:25–10:40 | Coffee Break              |
+| 10:40–11:40 | Spotlight Presentations   |
+| 11:40–12:30 | Poster Session            |
+| Until 13:00 | Lunch Break               |
+| 13:00–13:25 | Alex Millane              |
+| 13:25–13:50 | Luca Carlone (tentative)  |
+| 13:50–14:15 | Felix Heide               |
+| 14:15–14:40 | David Hsu (tentative)     |
+| 14:40–14:55 | Coffee Break              |
+| 14:55–15:20 | Victor Reijgwart (tentative) |
+| 15:20–15:45 | Yunzhu Li                 |
+| 15:45–16:00 | Coffee Break              |
+| 16:00–16:45 | Interactive Debate        |
 
 
 
