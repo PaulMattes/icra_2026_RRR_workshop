@@ -4,7 +4,30 @@ title = "Reasoning Representations for Robotics ICRA 2026 Workshop"
 
 # Abstract
 
-Stuff
+A central challenge in robotics is distilling complex sensor data into actionable representations for
+decision-making and motion planning. However, planners operating at different levels of abstraction
+demand representations with distinct and contradictory properties. For instance, a high-level
+decision-making planner requires a representation that encodes the high-level semantics and relationships
+between scene elements. On the other hand, a low-level trajectory optimizer requires a
+high-fidelity representation of occupancy to guarantee safe behavior. When robots operate in unknown
+or dynamic environments, the representation must support real-time construction from a
+stream of sensor data.
+
+Recently, several communities have made significant progress on developing representations that
+have subsets of these properties. These efforts include radiance field models from the 3D vision community,
+rapid advances in vision-language models for semantic understanding, and continued developments
+in model-based RL, scene graphs, and neuro-symbolic AI. Despite each field’s progress,
+enabling robots to be safe and capable agents across diverse task specifications will require collaboration
+across these academic disciplines.
+
+Through invited and selected spotlight talks as well as a panel discussion, the Representations
+for Robotic Reasoning workshop will address several key topics, including (1) designing representations
+that enable intelligent, efficient, and safe motion planning, (2) evaluating trade-offs among
+approaches such as learned world models, radiance fields, and scene graphs, (3) adapting representations
+to dynamic and uncertain environments, and (4) fostering cross-disciplinary collaborations.
+By bringing together these perspectives, the Representations for Robotic Reasoning workshop aims
+to encourage discussion and collaboration on the development of perceptual representations that
+support robust and safe robot behavior.
 
 ## Things
 
@@ -21,25 +44,25 @@ Stuff
 
 {{ grid(
     text = [
-        ["Speaker A","Institution A"], 
-        ["Speaker B","Institution B"],
-        ["Speaker C","Institution C"],
-        ["Speaker D","Institution D"],
-        ["Speaker E","Institution E"],
+        ["Felix Heide","Assistant Professor at Princeton University, Head of AI at Torc Robotics"], 
+        ["Stefan Leutenegger","Associate Professor at ETH Zürich"],
+        ["Michael Milford","Professor at Queensland University of Technology"],
+        ["Yunzhu Li","Assistant Professor at Columbia University"],
+        ["Alex Millane","Industry Researcher at Nvidia"],
     ],
     urls = [
-        "https://aterenin.github.io/academic-workshop#speaker_a",
-        "https://aterenin.github.io/academic-workshop#speaker_b",
-        "https://aterenin.github.io/academic-workshop#speaker_c",
-        "https://aterenin.github.io/academic-workshop#speaker_d",
-        "https://aterenin.github.io/academic-workshop#speaker_e",
+        "https://www.cs.princeton.edu/~fheide/",
+        "https://mavt.ethz.ch/de/personen/person-detail.MTEyOTE0.TGlzdC81NTksLTE3MDY5NzgwMTc=.html",
+        "https://www.qut.edu.au/about/our-people/academic-profiles/michael.milford",
+        "https://www.engineering.columbia.edu/faculty-staff/directory/yunzhu-li",
+        "https://alexmillane.github.io/",
     ],
     images = [
-        "placeholder.svg",
-        "placeholder.svg",
-        "placeholder.svg",
-        "placeholder.svg",
-        "placeholder.svg",
+        "heide.webp",
+        "leutenegger.jpg",
+        "milford.jpg",
+        "li.jpg",
+        "millane.png",
     ],
     narrow = true) }}
 
