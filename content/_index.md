@@ -29,12 +29,6 @@ By bringing together these perspectives, the Representations for Robotic Reasoni
 to encourage discussion and collaboration on the development of perceptual representations that
 support robust and safe robot behavior.
 
-## Things
-
-* enumerate
-    * inner enumerate
-
-
 
 {{ new_block() }}
 
