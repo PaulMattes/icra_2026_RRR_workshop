@@ -87,7 +87,17 @@ support robust and safe robot behavior.
         ["Paul Mattes","PhD Student at Karlsruher Institute of Technology"],
         ["Max Siebenborn","PhD Student at the Technical University of Darmstadt"],
     ],
-    image_dir = "organizers") }}
+    images = [
+        "a-SethIsaacson.jpg",
+        "b-ram.jpg",
+        "c-georgia.jpg",
+        "d-helen.jpg",
+        "e-rudolf.jpg",
+        "f-shreyas.jpg",
+        "g-katie.webp",
+        "h-dennis.jpg",
+        "i-paul.jpg",
+    ]) }}
 
 
 {{ new_block() }}
